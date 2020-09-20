@@ -1,0 +1,23 @@
+# Machine Learning Topics
+```
+Regression
+Classification
+Decision Trees
+Clustering
+Hyperparameter tuning
+Label Encoder
+Dimensionality Redcution
+K-Folf Cross Validation
+Support Vector Machines
+Boosting ALgorithms
+Bias-Variance
+Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+```
+# Deep Learning Topics(Basic Knowledge)
+```
+CNN
+Batch Normalisation
+Drop-out
+Transfer Learning
+Data Augmentation
+Optimization (adam, RMSProp, SGD)
